@@ -1,0 +1,7 @@
+uploads/
+cache/
+upgrade/
+*.log
+.DS_Store
+node_modules/
+vendor/
